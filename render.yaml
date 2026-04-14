@@ -1,8 +1,0 @@
-services:
-  - type: web
-    name: birthday-wishes
-    env: python
-    plan: free
-    buildCommand: ""
-    startCommand: python server.py
-    healthCheckPath: /api/health

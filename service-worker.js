@@ -19,7 +19,7 @@ const APP_SHELL = [
     "/finale.html",
     "/admin.html",
     "/style.css",
-    "/app.js",
+    "/script.js",
     "/assets/app-icon-192.png",
     "/assets/app-icon-512.png",
     "/assets/birthday-bloom.svg",
